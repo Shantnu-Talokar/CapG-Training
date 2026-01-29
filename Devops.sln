@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCCECalc", "YCCECalc\YCCECalc.csproj", "{120F7CC2-FF2B-2ADB-99B0-4C33FF02AE3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YCCE", "YCCE\YCCE.csproj", "{120F7CC2-FF2B-2ADB-99B0-4C33FF02AE3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
